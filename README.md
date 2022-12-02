@@ -42,7 +42,10 @@ User must have the dx-toolkit installed and be logged in as mokaguys using dx lo
 python3 get_dev_projects.py --output_file testResultsNov2022 --user mokaguys
 '''
 
-### get_dev_projects.py Outpur
+### get_dev_projects.py Output
+
+*_dev_project.csv
 
 ### get_dev_projects.py Limitations
 
+Only returns projects which have given mokaguys access
